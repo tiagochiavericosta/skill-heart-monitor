@@ -1,6 +1,5 @@
-# Hello World Skill
+# Heart Monitor Skill
 
 ## Usage:
-* `hello world`
-* `how are you`
-* `thank you`
+what is my heart rate
+what my heart rate
